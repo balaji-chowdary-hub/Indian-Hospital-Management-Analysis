@@ -1,0 +1,41 @@
+dept_id,dept_name,floor,bed_capacity,occupancy_rate
+DEPT001,Cardiology,5,19,0.97
+DEPT002,Oncology,2,77,0.49
+DEPT003,Neurology,7,58,0.79
+DEPT004,Orthopedics,4,11,0.73
+DEPT005,Pediatrics,4,74,0.92
+DEPT006,Emergency,5,26,0.49
+DEPT007,ICU,2,41,0.67
+DEPT008,Radiology,7,54,0.8
+DEPT009,Pathology,1,33,0.8
+DEPT011,General Surgery,2,20,0.9
+DEPT012,Gynecology,7,45,0.72
+DEPT013,Urology,3,74,0.42
+DEPT014,Dermatology,3,71,0.46
+DEPT015,Gastroenterology,1,17,0.88
+DEPT016,Psychiatry,7,33,0.64
+DEPT017,Ophthalmology,5,31,0.81
+DEPT018,ENT,1,45,0.7
+DEPT019,Nephrology,5,77,0.64
+DEPT021,Pulmonology,1,29,0.87
+DEPT022,Hematology,4,37,0.97
+DEPT023,Endocrinology,3,14,0.55
+DEPT024,Rheumatology,7,29,0.71
+DEPT025,Infectious Disease,4,43,0.92
+DEPT026,Geriatrics,5,40,0.68
+DEPT027,Neonatology,5,67,0.47
+DEPT028,Anesthesiology,6,41,0.88
+DEPT029,Pharmacy,1,12,0.7
+DEPT031,Physical Therapy,1,60,0.52
+DEPT032,Nutrition,6,28,0.93
+DEPT033,Social Work,1,31,0.56
+DEPT034,Palliative Care,4,77,0.54
+DEPT035,Trauma,6,68,0.62
+DEPT036,Burn Unit,1,57,0.63
+DEPT037,Transplant,3,26,0.54
+DEPT038,Sports Medicine,1,22,0.51
+DEPT039,Allergy,2,19,0.64
+DEPT041,Vascular Surgery,7,77,0.9
+DEPT042,Plastic Surgery,7,24,0.87
+DEPT043,Pain Management,5,30,0.78
+DEPT044,Sleep Medicine,7,63,0.7
